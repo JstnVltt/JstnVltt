@@ -60,7 +60,7 @@
 
 ###
 
-<p align="left">I'm planning to create Writups of CTFs of TryHackMe and other plateforms.</p>
+<p align="left">Some personnal projects going on.</p>
 
 ###
 
