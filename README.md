@@ -13,11 +13,7 @@
 
 ###
 
-<div align="center">
-  <a href="https://tryhackme.com/r/p/Faythe" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
-  </a>
-</div>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=554333" style='border:none;'></iframe>
 
 ###
 
