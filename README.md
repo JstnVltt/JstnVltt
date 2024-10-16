@@ -57,7 +57,7 @@
 
 ###
 
-<p align="left">Some personnal projects going on.</p>
+<p align="left">Some personal projects going on.</p>
 
 ###
 
